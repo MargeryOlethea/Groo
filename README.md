@@ -1,4 +1,4 @@
-#Groo-Food: A Hackathon Adventure
+# Groo-Food: A Hackathon Adventure
 
 Hey there! Groo-Food is our brainchild—a mockup website born out of a whirlwind hackathon session after just a month of diving into the basics of JavaScript, HTML, and CSS. We took inspiration from Grabfood, employing the magic trio of JavaScript DOM, HTML, and CSS to bring our vision to life.
 
